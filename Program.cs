@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace G7Bank;
-
+// This is a test program
 class Program
 {
     static void Main(string[] args)
